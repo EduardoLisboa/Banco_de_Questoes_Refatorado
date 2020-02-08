@@ -1,0 +1,819 @@
+Biologia
+Sistema nervoso
+O fato de que os neurônios não se reproduzem pode ser generalizado para outras células, explicando-se corretamente, neste caso, porque:
+Quanto mais diferenciada for uma célula, menor será sua capacidade reprodutiva
+As células eucarióticas não se reproduzem
+Quanto mais diferenciada for uma célula, menor será sua capacidade reprodutiva
+Somente as células gâmicas são capazes de reprodução
+As células labeis são dotadas de alta capacidade de reprodução
+Células alongadas nunca se reproduzem
+
+Biologia
+Répteis
+(FUVEST) Os vertebrados conquistaram o ambiente terrestre através da formação de um tipo de ovo capaz de se desenvolver fora da água. Esta conquista aparece na primeira vez em:
+Répteis
+Mamiferos
+Aves
+Répteis
+Anfibios
+Peixes
+
+Biologia
+Poríferos
+(MED. TAUBATE) Coanócitos são:
+Células características dos espongiários (poríferos)
+Células características dos espongiários (poríferos)
+Células características dos celenterados
+Células reprodutivas
+Formas jovens dos poríferos
+O mesmo que cnidoblastos
+
+Biologia
+Sucessão Ecológica
+(FUVEST) Um grande rochedo nu comeca a ser colonizado por seres vivos. Os primeiros organismos a se instalarem são:
+Líquens
+Gramineas
+Líquens
+Fungos
+Briófitas
+Pteridófitas
+
+Biologia
+Sucessão Ecológica
+Com relação ao número de nichos ecológicos (I) e a taxa de respiração (II), numa sucessão ecológica é correto afirmar que:
+Ambos aumentam
+I aumenta e II diminui
+I diminui e II aumenta
+I aumenta e II permanece constante
+Ambos aumentam
+Ambos diminuem
+
+Biologia
+Cadeia Alimentar
+(USP) As alternativas apresentam os constituintes de uma cadeia alimentar de uma lagoa, onde foi aplicado DDT, sabendo-se que o DDT tem efeito cumulativo, em  qual dos elementos da cadeia alimentar haverá maior concentração deste inseticida?
+Cágados
+Guaru-guarus
+Fitoplâcton
+Larvas de mosquitos
+Cágados
+Zooplâncton
+
+Biologia
+Biomas Terrestres
+Um grande ecossistema, onde estão presentes clima, vegetação e animais da região, é conhecido por:
+Bioma
+Bioma
+Biocenose
+Biosfera
+Biótipo
+Biomassa
+
+Biologia
+Núcleo celular
+Podemos afirmar que o nucléolo e uma estrutura:
+Intranuclear, rica me RNA ribossômico, presente em células em anáfase
+Intranuclear, visivel apenas ao microscópio eletrônico, presente em células em anáfase
+Intranuclear, rica em RNA mensageiro, presente em alguns vírus
+Intranuclear, rica me RNA ribossômico, presente em células em anáfase
+Citoplasmatica, presente em alguns protozoarios
+Citoplasmatica, rica em RNA ribossômico, com funcao de sintetizar enzimas do ciclo respiratorio
+
+Biologia
+Sistema Excretor
+(UNISA) Qual das expressões abaixo melhor traduz a ideia de homeostase?
+Equilíbrio dinâmico
+Composição do meio interno
+Crescimento constante
+Crescimento exponencial
+Equilíbrio dinâmico
+Equilíbrio estático
+
+Biologia
+Esqueleto
+Leia as alternativas abaixo e assinale a FALSA:
+Uma fratura na coluna vertebral pode ocasionar tetraplegia (paralisia dos quatro membros) porque no seu interior há a medula óssea
+Na poliomielite o vírus lesa a medula espinhal
+O Césio-137 pode lesar a medula óssea, ocasionando leucemia, ou seja, câncer de sangue
+A medula espinhal e constituída por tecido nervoso
+Hematopoese e a produção de células sanguíneas e ocorre na medula óssea vermelha
+Uma fratura na coluna vertebral pode ocasionar tetraplegia (paralisia dos quatro membros) porque no seu interior há a medula óssea
+
+Física
+Transmissao de Calor
+(UNISA-SP) Uma panela com água está sendo aquecida num fogão. O calor das chamas se transmite através da parede do fundo da panela para a água que está em contato com essa parede e daí para o restante da água. Na ordem desta descrição, o calor se transmitiu predominantemente por:
+Condução e convecção
+Radiação e convecção
+Radiação e condução
+Convecção e radiação
+Condução e convecção
+Condução e radiação
+
+Física
+Termodinâmica
+(FEI) Numa transformação de um gás perfeito, os estados final e inicial acusaram a mesma energia interna. Certamente:
+São iguais as temperaturas dos estados inicial e final.
+A transformação foi cíclica.
+A transformação isométrica.
+Não houve troca de calor entre o gás e o ambiente.
+São iguais as temperaturas dos estados inicial e final.
+Não houve troca de trabalho entre o gás e o meio.
+
+Física
+Termodinâmica
+(UNAMA) Um motor de Carnot cujo reservatório à baixa temperatura está a 7,0ºC apresenta um rendimento de 30%. A variação de temperatura, em Kelvin, da fonte quente a fim de aumentarmos seu rendimento para 50%, será de:
+160
+400
+280
+160
+560
+600
+
+Física
+Instrumentos ópticos
+(UFES) Uma lupa é construída com uma lente convergente de 3,0cm de distância focal. Para que um observador veja um objeto ampliado de um fator 3, a distância entre a lupa e o objeto deve ser, em centímetros:
+2,0
+1,5
+2,0
+3,0
+6,0
+25
+
+Física
+Vetores
+(FESP) Num corpo estão aplicadas apenas duas forças de intensidades 12N e 8,0N. Uma possível intensidade da resultante será:
+10N
+22N
+3,0N
+10N
+Zero
+21N
+
+Física
+Calorimetria
+(FUVEST) Um ser humano adulto e saudável consome, em média, uma potência de 120J/s. Uma “caloria alimentar” (1kcal) corresponde, aproximadamente, a 4,0 x 103J. Para nos mantermos saudáveis, quantas “calorias alimentares” devemos utilizar, por dia, a partir dos alimentos que ingerimos?
+2,6x10^3
+33
+120
+2,6x10^3
+4,0x10^3
+4,8x10^5
+
+Física
+Capacitores
+(ITA – SP) Um condutor esférico oco, isolado, de raio interno R, em equilíbrio eletrostático, tem seu interior uma pequena esfera de raio r < R, com carga positiva. neste caso, pode-se afirmar que:
+Todas as alternativas acima estão erradas.
+A carga elétrica na superfície externa do condutor é nula
+A carga elétrica na superfície interna do condutor é nula
+O campo elétrico no interior do condutor é nulo
+O campo elétrico no exterior do condutor é nulo
+Todas as alternativas acima estão erradas
+
+Física
+Hidrostática
+(EFOMM) Para lubrificar um motor, misturam-se massas iguais de dois óleos miscíveis de densidades d1 = 0,60g/cm^3 e d2 = 0,85 g/cm^3. A densidade do óleo lubrificante resultante da mistura é, aproximadamente, em g/cm^3:
+0,70
+0,72
+0,65
+0,70
+0,75
+0,82
+
+Física
+Geradores Elétricos
+(PUC-SP) Cinco geradores, cada um de f.e.m. igual a 4,5V e corrente de curto-circuito igual a 0,5A, são associados em paralelo. A f.e.m.e a resistência interna do gerador equivalente têm valores respectivamente iguais a:
+4,5V e 1,8W
+4,5V e 9,0W
+22,5V e 9,0W
+4,5V e 1,8W
+0,9V e 9,0W
+0,9V e 1,8W
+
+Física
+Potência Mecânica
+(FUVEST) Um pai de 70kg e seu filho de 50kg pedalam lado a lado, em bicicletas idênticas, mantendo sempre velocidade uniforme. Se ambos sobem uma rampa e atingem um patamar plano, podemos afirmar que, na subida da rampa até atingir o patamar, o filho, em relação ao pai:
+Desenvolveu potência mecânica menor
+Realizou mais trabalho
+Realizou a mesma quantidade de trabalho
+Possuía mais energia cinética
+Possuía a mesma quantidade de energia cinética
+Desenvolveu potência mecânica menor
+
+Física
+Movimento Uniforme
+A luz solar gasta 5,0x10^2s para chegar à Terra. O diâmetro do Sol é da ordem de 1,4x10^6 km. Seja 10n a ordem de grandeza do número de corpos idênticos ao Sol que cabem no espaço entre o Sol e a Terra, com centros na reta que una o centro do Sol ao centro da Terra. O valor de n é:
+2
+1
+2
+3
+4
+10
+
+Geografia
+Oriente Médio
+(UE-MT) Israel possui, atualmente, fronteiras com o Egito, ainda, com:
+Jordânia, Líbano e Síria
+Jordânia, Líbano e Turquia
+Jordânia, Líbano e Síria
+Jordânia, Líbano e Iraque
+Jordânia, Iraque e Síria
+Arábia Saudita, Líbano e Turquia
+
+Geografia
+Japão
+(PUC) A indústria japonesa desenvolveu-se aceleradamente no Pós-Segunda Guerra Mundial. Entre outros motivos, esse fato deveu-se:
+Aos grandes investimentos de capitais norte-americanos em grupos industrializados japoneses
+Aos grandes investimentos de capitais norte-americanos em grupos industrializados japoneses
+À presença, no país, de grandes reservas de carvão, petróleo e minério de ferro
+À existência de grande mercado comprador representado pela China e pela Coreia do Sul
+À localização privilegiada do país em relação aos mercados americanos e europeus
+À existência, no país, de enormes reservas de ouro que permitiram elevadas exportações de capitais
+
+Geografia
+Relevo
+Sobre o domínio amazônico, assinale a alternativa falsa:
+O solo amazônico tem-se mostrado fertilíssimo, prestando-se a grande monocultura exportadora
+Compõe-se em sua maior parte por baixos planaltos e planícies
+A hidrografia é riquíssima, com furos, igarapés, paranás-mirins e lagos da várzea
+Devido a riqueza mineral orgânica das águas dos rios é grande a piscosidade
+Devido à exportação de peixes a matança tem-se descontrolado, colocando em risco várias espécies
+O solo amazônico tem-se mostrado fertilíssimo, prestando-se a grande monocultura exportadora
+
+Geografia
+Clima
+(SANTA CASA) Para apoiar a regra de que “a temperatura diminui com o aumento da latitude”, deveríamos tomar como exemplo os dados referentes às cidades de:
+Manaus, Rio de Janeiro e Porto Alegre
+Manaus, Cuiabá e Porto Alegre
+Recife, Cuiabá e Rio de Janeiro
+Recife, Rio de Janeiro e Porto Alegre
+Manaus, Recife e Cuiabá
+Manaus, Rio de Janeiro e Porto Alegre
+
+Geografia
+Fontes de Energia
+As jazidas brasileiras de carvão mineral localizam-se em terrenos, datando geologicamente:
+Do permocarbonífero
+Do proterozoico
+Do triássico
+Do plioceno
+Do cambriano
+Do permocarbonífero
+
+Geografia
+Agricultura
+(UNIFENAS) O meeiro constitui, no Brasil, um tipo característico de trabalhador rural:
+Que entrega ao proprietário metade do que produziu
+De cuja terra é co-proprietário
+Que recebe em pagamento metade do salário pago na região
+Que recebe em pagamento metade dos lucros do proprietário
+Que paga ao proprietário metade do aluguel da terra ocupada
+Que entrega ao proprietário metade do que produziu
+
+Geografia
+Transportes
+(UNIMEP) Segundo o valor das exportações, os principais portos do Brasil são, respectivamente:
+Santos, Paranaguá e Vitória
+Santos, Rio de Janeiro e Porto Alegre
+Rio de Janeiro, Santos e Recife
+Santos, Rio de Janeiro e Salvador
+Rio de Janeiro, Santos e Vitória
+Santos, Paranaguá e Vitória
+
+Geografia
+Estados Unidos
+“… Os produtos finais têm alto valor unitário, o que reduz a importância dos custos de transporte. Por outro lado, mão-de-obra científica e técnicos altamente qualificados, e intensos investimentos de capital constituem as exigências cruciais para o sucesso desses empreendimentos. Assim, centros empresariais de alta tecnologia disseminaram-se por uma grande variedade de novas localizações, distantes das regiões industriais tradicionais. A eletrônica, a informática, a biotecnologia, a bélica – exemplificam novas localizações.” Essa concentração de indústrias de ponta pode ser encontrada:
+No Vale do Silício (Califórnia – EUA)
+No Vale do Silício (Califórnia – EUA)
+No Vale do Hoang-hô. (China)
+No ABC paulista
+No litoral Atlântico do México
+Na região metropolitana de Paris
+
+Geografia
+Litoral
+(UFCE) Identifique a região do relevo submarino, na qual foi encontrado o petróleo no Ceará:
+Plataforma Continental
+Abissal
+Plataforma Continental
+Pelágica
+Fossa Marinha
+n.d.a.
+
+Geografia
+Pecuária
+(MACKENZIE) O Pantanal mato-grossense possui características singulares que o individualizam e tornam uma unidade fisiográfica e morfoestrutural única no território brasileiro, com uma economia caracterizada pela:
+Criação extensiva de gado bovino.
+Criação extensiva de gado bovino.
+Criação intensiva de gado bovino.
+Extração mineral.
+Elevada densidade de produção agrícola.
+Policultura comercial.
+
+História
+Primórdios da Colonização Portuguesa
+(FATEC) A única forma de ocupação do Brasil por Portugal era através da colonização. Era necessário colonizar simultaneamente todo o extenso litoral. Essa colonização dirigida pelo governo português se deu através da:
+Criação das capitanias hereditárias
+Criação do sistema de governo geral
+Criação e distribuição de sesmarias
+Criação das capitanias hereditárias
+Doação de terras a colonos
+Sistema de parceria
+
+História
+República Velha
+(PUC) O tenentismo constituiu um dos elementos básicos:
+Da revolução brasileira de 1930
+Da revolução brasileira de 1930
+Da guerra contra Rosas e Oribe
+Da guerra do Paraguai
+Da Questão Militar do II Reinado
+n.d.a.
+
+História
+Revolução Industrial
+A enclosure ou cercamento:
+É o processo de extinção dos campos abertos (open fields), provocando o êxodo rural
+É o processo de extinção dos campos abertos (open fields), provocando o êxodo rural
+Provocou a substituição dos grandes domínios rurais pelos pequenos, cuja rentabilidade era maior
+Implicou uma maior concentração de mão-de-obra agrícola, ao deter a migração para as cidades
+Foi um fenômeno exclusivo da Inglaterra, não aparecendo em nenhum outro país
+Ocorreu somente no século XIX, em virtude da estagnação do mercado consumidor
+
+História
+Absolutismo
+(FUVEST) No processo de formação dos estados Nacionais da França e da Inglaterra, podem ser identificados os seguintes aspectos:
+Desagregação do feudalismo e centralização política
+Fortalecimento do poder da nobreza e retardamento da formação do estado moderno
+Ampliação da dependência do rei em relação aos senhores feudais e à Igreja
+Desagregação do feudalismo e centralização política
+Diminuição do poder real e crise do capitalismo comercial
+Enfraquecimento da burguesia e equilíbrio entre o Estado e a Igreja
+
+História
+Renascentismo Urbano
+(FUVEST) As corporações de ofício medievais possuíam um conjunto de regras que formavam um verdadeiro código de ética. Uma dessas regras eras a do “justo preço”, que se pode formular do seguinte modo:
+O valor de um produto era representado pela adição do custo da matéria-prima ao custo do trabalho
+A corporação deveria promover a ascensão do produtor à categoria de empresário
+Cada qual deveria vender a seus clientes sem procurar seduzir a freguesia dos confrades
+O artífice não deveria trabalhar tendo em vista unicamente o ganho, mas de modo a produzir artigos “de lei”
+O valor de um produto era representado pela adição do custo da matéria-prima ao custo do trabalho
+O mestre não tinha o direito de utilizar-se do aprendiz exclusivamente em benefício próprio, mas deveria ensinar-lhe lealmente todos os segredos do ofício
+
+História
+Império Bizantino
+Justiniano (527 – 565), no Império Romano do Oriente, enfrentou diferentes dificuldades internas, inclusive nas relações entre a Igreja e o Estado, devido a heresias como a dos monofisistas. Estes, entre outros princípios:
+Negavam a natureza humana de Cristo
+Pretendiam a destruição de todas as imagens
+Negavam a natureza humana de Cristo
+Defendiam o conhecimento de Deus inspirado no misticismo
+Admitiam o dualismo de inspiração budista
+Acreditavam na reencarnação das almas em corpos animais
+
+História
+Pré-História
+Sobre o surgimento da agricultura e seu uso intensivo pelo homem, pode-se afirmar que:
+Ocorreu, em tempos diferentes, no Oriente Próximo (Egito e Mesopotâmia), na Ásia (Índia e China) e na América (México e Peru)
+Foi posterior, no tempo, ao aparecimento do Estado e da escrita
+Ocorreu no Oriente Próximo (Egito e Mesopotâmia) e daí se difundiu para a Ásia (Índia e China), Europa e, a partir desta, para a América
+Como tantas outras invenções, teve origem na China, de onde se difundiu até atingir a Europa e, por último, a América
+Ocorreu, em tempos diferentes, no Oriente Próximo (Egito e Mesopotâmia), na Ásia (Índia e China) e na América (México e Peru)
+De todas as invenções fundamentais, a metalurgia e o comércio foram as que menos contribuíram para o ulterior progresso material do homem
+
+História
+A Igreja e o Sacro Império
+(PUCC) Os mais importantes teólogos da Igreja, respectivamente na Alta e na Baixa Idade Média, foram:
+Santo Agostinho e Santo Tomás de Aquino
+Santo Agostinho e São Bento
+São Paulo e Santo Tomás de Aquino
+Santo Agostinho e Santo Tomás de Aquino
+São Patrício e Santo Tomás de Aquino
+n.d.a.
+
+História
+Primeira Guerra Mundial
+(USP) A preocupação em isolar a França e obter o maior número possível de aliados caracterizou a política de um chefe de governo europeu no período de 1871 e 1890. Estamos no referindo a:
+Bismarck
+Lloyd George
+Bismarck
+Guilherme II
+Cavour
+Guilherme I
+
+História
+Hebreus e Fenícios
+(OSEC) Os fenícios dedicavam-se primordialmente ao comércio marítimo porque:
+Sua localização geográfica os induzia a isso
+Era grande seu excedente agrícola
+Sua organização militar lhes garantia o domínio dos mares
+Sua localização geográfica os induzia a isso
+Sua organização política era fortemente centralizada
+Sua atividade militar lhes proporcionava numerosos escravos para atuar nas galeras como remadores
+
+Inglês
+The Future and Conditional Tense
+No one ________ you if you’d not shouted.
+Would have heard
+Will hear
+Wouldn’t have heard
+Would hear
+Hear
+Would have heard
+
+Inglês
+Singular and Plural
+(FMU) The little _________ are in that __________.                                 
+Foxes - box
+Foxes – boxes
+Fox – box
+Foxen – box
+Foxes – box
+Foxen – boxen
+
+Inglês
+Preposition
+During the week I get up early ______ the morning anjd go to bed late ______ night, But normally _____ weekends I sleep _______ midday.
+In – at – at – until
+In – at – at – until
+On – in – in – as far as
+On – at – at – even
+In – at – in – until
+In – in – at – till
+
+Inglês
+The Past Tense
+The Brazilian football team _______________ to Venezuela last week.
+Flew
+Flew
+Fly
+Flown
+Flying
+Have flown
+
+Inglês
+Interrogatives
+I just want to know this : how ______ do you go to the bank?
+Often
+Much
+Many
+Long
+Far
+Often
+
+Inglês
+Indefinite Pronouns
+Don’t tell _____ lies to me; you cannot deceive me any longer.
+Any
+Some
+No
+None
+No one
+Any
+
+Inglês
+The Genitive Case
+Whose coat is this? It’s my _________________________________.
+Brother-in-law’s
+Brother-in-law’s
+Brother’s-in law
+Brother-in’s-law
+Brother-in-law
+Todas são corretas
+
+Inglês
+The Present Tense
+Wake me up as soon as my brothers________________. 
+Arrive
+Will arrive
+Arrived
+Arrive
+Had arrived
+Is arriving
+
+Inglês
+Adverbs
+Numa das sentenças abaixo o advérbio não está corretamente inserido:
+Gary always is dreaming of you
+He hasn’t met me yet
+I was rather cold yesterday
+Gary always is dreaming of you
+We hardly work on Sundays
+They’ll travel by car
+
+Inglês
+The Perfect Tense
+Paul ___________ half the work, when they ___________ in.
+Had finished, came
+Finished, came
+Has finished, came
+Had finished, had come
+Has finished, had come
+Had finished, came
+
+Matemática
+Polinômios
+(UESP) Se o polinômio P(x) = x^3 + mx^2 – 1 é divisível por x^2 + x – 1, então m é igual a:
+2
+-3
+-2
+-1
+1
+2
+
+Matemática
+Média Aritmética
+(ITA) Sabe-se que a média harmônica entre o raio e a altura de um cilindro de revolução vale 4. Quanto valerá a razão entre o volume e a área total do cilindro?
+1
+1
+2
+2,5
+3
+3,5
+
+Matemática
+Potenciação
+(USF) Dadas as expressões A = -a^2 – 2a + 5 e B = b^2 + 2b + 5:
+Se a = -2 e b = -2, então A = B
+Se a = 2 e b = -2, então A = B
+Se a = 2 e b = 2, então A = B
+Se a = -2 e b = -2, então A = B
+Se a = -2 e b = 2, então A = B
+Se a = -2 e b = 2, então A = B
+
+Matemática
+Progressão Geométrica
+O segundo termo de uma P. G. crescente tal que a1 = 8 e a3 = 18 é igual a:
+12
+10
+11
+12
+14
+15
+
+Matemática
+Função Logarítmica e Exponencial
+As funções y = ax e y = bx com a > 0 e b > 0 e a b têm gráficos que se interceptam em:
+1 ponto
+Nenhum ponto
+2 pontos
+4 pontos
+1 ponto
+Infinitos pontos
+
+Matemática
+Razão e Proporção
+Se (3, x, 14, …) e (6, 8, y, …) forem grandezas diretamente proporcionais, então o valor de x + y é:
+32
+20
+22
+24
+28
+32
+
+Matemática
+Módulo
+Se 1 £ x £ 3, então | x – 1 | + | x – 3 | é igual a:
+2
+2x – 4
+2
+-2x + 4
+4
+2x – 2
+
+Matemática
+Probabilidade
+(UNI-RIO) As probabilidades de três jogadores marcarem um gol cobrando pênalti são, respectivamente, 1/2, 2/5, e 5/6. Se cada um bater um único pênalti, a probabilidade de todos errarem é igual a:
+5%
+3%
+5%
+17%
+20%
+25%
+
+Matemática
+Juros e Porcentagem
+Sabe-se que R$ 500,00 representam x% de R$ 2.500,00, que 12 gramas são y% de 96 gramas e que 1.200 m² equivalem a z% de 60km². Os valores de x, y e z são, respectivamente:
+20; 12,5; 0,002
+10, 12; 2
+20, 12,5; 0,2
+20; 12,5; 0,002
+2; 12; 0,002
+20; 12; 0,002
+
+Matemática
+Pirâmides
+(SJRP – JUNDIAI) Os vértices de um tetraedro regular de volume 1m³ são centros das faces de outro tetraedro regular. O volume deste outro tetraedro vale:
+27m^3
+1m^3
+3m^3
+9m^3
+27m^3
+81m^3
+
+Português
+Concordância Nominal
+(UNEB – BA) Assinale a alternativa em que, pluralizando-se a frase, as palavras destacadas permanecem invariáveis:
+Só estudei o elementar, o que me deixa meio apreensivo
+Este é o meio mais exato para você resolver o problema: estude só
+Meia palavra, meio tom – índice de sua sensatez
+Estava só naquela ocasião; acreditei, pois em sua meia promessa
+Passei muito inverno só
+Só estudei o elementar, o que me deixa meio apreensivo
+
+Português
+Classicismo
+Identifique a alternativa que não contenha ideais clássicos de arte:
+Liberdade de criação e predomínio dos impulsos pessoais
+Universalismo e racionalismo
+Formalismo e perfeccionismo
+Obediência às regras e modelos e contenção do lirismo
+Valorização do homem (do aventureiro, do soldado, do sábio e do amante) e verossimilhança (imitação da verdade e da natureza)
+Liberdade de criação e predomínio dos impulsos pessoais
+
+Português
+Trovadorismo
+Assinale a afirmação falsa:
+A cultura católica, técnica e literariamente superior às culturas islâmica e hebraica, impôs-se naturalmente desde os primórdios da formação de Portugal
+A cultura portuguesa, no século XII, conciliava três matrizes contraditórias: a católica, a islâmica e a hebraica
+A cultura católica, técnica e literariamente superior às culturas islâmica e hebraica, impôs-se naturalmente desde os primórdios da formação de Portugal
+A expulsão dos mouros e judeus e a Inquisição foram os aspectos mais dramáticos da destruição sistemática que a cultura triunfante impôs às culturas opostas
+O judeu Maimônides e o islamista Averróis são expressões do que as culturas dominadas produziram de mais significativo na Península Ibérica
+Pode-se dizer que a cultura portuguesa esteve desde seu início assentada na diversidade e na contradição, do que resultaram alguns de seus traços positivos (miscibilidade, aclimatabilidade etc.) e negativos (tendência ao ceticismo quanto a ideias, desconfiança etc
+
+Português
+Impressionismo
+Só não notamos a presença do Impressionismo quando o autor:
+Procura retratar fielmente a realidade, detendo-se em minuciosa descrição
+Retrata a verdade de um dado momento, justapondo ideias várias
+Dá mais ênfase às emoções sentimentos e atitudes individuais do que aos fatos em si
+Usa uma linguagem expressiva, suprimindo conjunções e liberando as frases
+Procura retratar fielmente a realidade, detendo-se em minuciosa descrição
+Inventa e interpreta uma paisagem imprecisa
+
+Português
+Barroco
+(MACKENZIE-SP) Assinale a alternativa incorreta:
+O conceptismo caracteriza-se pela linguagem rebuscada, culta, extravagante, enquanto o cultismo é marcado pelo jogo de ideias, seguindo um raciocínio lógico, racionalista
+Na obra de José de Anchieta, encontram-se poesias que seguem a tradição medieval e textos para teatro com clara intenção catequista
+A literatura informativa do Quinhentismo brasileiro empenha-se em fazer um levantamento da terra, daí ser predominantemente descritiva
+A literatura seiscentista reflete um dualismo:o ser humano dividido entre a matéria e o espírito, o pecado e o perdão
+O Barroco apresenta estados de alma expressos através de antíteses, paradoxos, interrogações
+O conceptismo caracteriza-se pela linguagem rebuscada, culta, extravagante, enquanto o cultismo é marcado pelo jogo de ideias, seguindo um raciocínio lógico, racionalista
+
+Português
+Romantismo
+Assinale a alternativa que traz apenas características do Romantismo:
+Egocentrismo – predomínio da poesia lírica – relativismo – insatisfação – idealismo
+Idealismo – religiosidade – objetividade – escapismo – temas pagãos
+Predomínio do sentimento – liberdade criadora – temas cristãos – natureza convencional – valores absolutos
+Egocentrismo – predomínio da poesia lírica – relativismo – insatisfação – idealismo
+Idealismo – insatisfação – escapismo – natureza convencional – objetividade
+n.d.a.
+
+Português
+Parnasianismo
+(FUND. UNIV. RIOGRANDE) Marque a afirmativa correta:
+O Parnasianismo caracterizou-se, no Brasil, pela busca da perfeição formal na poesia
+O Parnasianismo caracterizou-se, no Brasil, pela busca da perfeição formal na poesia
+O Parnasianismo determinou o surgimento de obras de tom marcadamente coloquial
+O Parnasianismo, por seus poetas, preconizava o uso do verso livre
+O Parnasianismo brasileiro deu ênfase ao experimentalismo formal
+O Parnasianismo foi o responsável pela afirmação de uma poesia de caráter sugestivo e musical
+
+Português
+Pré-Modernismo
+(FUVEST) No romance Triste Fim de Policarpo Quaresma, o nacionalismo exaltado e delirante da personagem principal motiva seu engajamento em três diferentes projetos, que objetivam “reformar” o país. Esses projetos visam, sucessivamente, aos seguintes setores da vida nacional:
+Cultural, agrícola e político
+Escolar, agrícola e militar
+Linguístico, industrial, e militar
+Cultural, agrícola e político
+Linguístico, político e militar
+Cultura, industrial e político
+
+Português
+Arcadismo
+Indique a alternativa errada:
+O Arcadismo tendeu à obscuridade, à complicação linguística e ao ilogismo
+Cultismo e conceptismo são as duas vertentes literárias do estilo barroco
+O arcadismo afirmou-se em oposição ao estilo barroco
+O conceptismo correspondeu a um estilo fundado em “agudezas”ou “sutilezas”de pensamento, com transições bruscas e associações inesperadas entre conceitos
+O cultismo correspondeu sobretudo a um jogo formal refinado, com uso abundante de figuras de linguagem e verdadeiras exaltação sensorial na composição das imagens e na elaboração sonora
+O Arcadismo tendeu à obscuridade, à complicação linguística e ao ilogismo
+
+Português
+Preposição
+(UFPA) No trecho: “(O Rio) não se industrializou, deixou explodir a questão social, fermentada por mais de dois milhões de favelados, e inchou, à exaustão, uma máquina administrativa que não funciona…”, a preposição a (que está contraída com o artigo a) traduz uma relação de:
+Modo
+Fim
+Causa
+Concessão
+Limite
+Modo
+
+Português
+Concordância Verbal
+Assinale a opção em que há erro de conjugação verbal em relação à norma culta da língua:
+Quando eu requiser a segunda via do documento…
+Se ele vir o nosso trabalho, ficará muito doente
+Não desanimes; continua batalhando
+Meu pai interveio na discussão
+Se ele reouvesse o que havia perdido
+Quando eu requiser a segunda via do documento…
+
+Química
+Bioquímica
+(UFMG) Qual das afirmações abaixo é correta?
+A sacarose é uma óside
+Oses são glicídios que se hidrolisam
+Ósides não se hidrolisam
+A sacarose é uma óside
+A sacarose é uma ose
+A glicose é uma óside
+
+Química
+Radioatividade
+(UNIP – SP) Quando um elemento X emite partícula beta, transforma-se em Y. Os elementos X e Y são:
+Isóbaros
+Isótopos
+Isóbaros
+Alótropos
+Isótonos
+Isoeletrônicos
+
+Química
+Termoquímica
+(OSEC) Considerando-se a transformação isotérmica N2O(g) ® N2(g) +   O2(g) à 25°C e sabendo-se que a variação de entalpia (DH) é –19,5 kcal/mol e que a variação de entropia (DS) é 18 cal/grau . mol, podemos afirmar que a variação de energia livre (DG) do sistema é:
+–24,86 kcal e espontâneo
++19,25 kcal e espontâneo
+–19,25 kcal e não espontâneo
++24,86 kcal e não espontâneo
+–24,86 kcal e espontâneo
+n.d.a.
+
+Química
+Substância e Mistura
+Tem-se uma mistura de magnésio e bismuto pulverizados. A densidade do magnésio é 1,74 g/ml e a do bismuto é 9,67 g/ml. Para separar esses dois metais, precisamos escolher um líquido adequado. Assinale a alternativa correta:
+O líquido não reage com nenhum dos dois metais e tem densidade 2,89 g/ml
+O líquido reage com ambos os metais e tem densidade 2,89 g/ml
+O líquido reage com um dos metais e tem densidade 2,89 g/ml
+O líquido não reage com nenhum dos dois metais e tem densidade 2,89 g/ml
+O líquido reage com um dos metais e tem densidade 1,24 g/ml
+O líquido não reage com nenhum dos metais e tem densidade 1,24 g/ml
+
+Química
+Deslocamento de Equilíbrio
+(UFGO) A seguir são apresentados cinco equilíbrios químicos. Assinale aquele que não sofre deslocamento com aumento de pressão:
+2 HI(g) -> H2(g) + I2(g)
+SO2Cl2(g) -> SO2(g) + Cl2(g)
+SbCl5(g) -> SbCl3(g)  + Cl2(g)
+C(s) + CO2(g)  -> 2 CO(g)
+2 HI(g) -> H2(g) + I2(g)
+2 H2S(g) -> 2 H2(g) + S2(g)
+
+Química
+Eletroquímica
+(MACK) Em uma pilha com eletrodos de zinco e de cobre, com circuito fechado, ocorre:
+O potencial do eletrodo de zinco diminui e o do cobre aumenta
+O potencial do eletrodo de zinco diminui e o do cobre aumenta
+O potencial do dois eletrodos diminui
+O potencial do eletrodo de zinco aumenta e o do cobre diminui
+O potencial dos dois eletrodos aumenta
+O potencial dos dois eletrodos não se altera
+
+Química
+Hidrólise de Sais
+Um químico necessita de uma solução aquosa de um sal que apresente um pOH maior que 7. Para isso, poderá usar uma solução de:
+Nitrato de amônio
+Cloreto de sódio
+Nitrato de amônio
+Sulfato de sódio
+Acetato de potássio
+Qualquer dos sais acima citados
+
+Química
+pH e pOH
+O pH de uma solução é 6. Se reduzirmos o valor do pH da mesma solução para 2, a concentração de íons hidrogênio será:
+10.000 vezes maior do que a inicial
+10.000 vezes maior do que a inicial
+1.000 vezes maior do que a inicial
+1.000 vezes menor do que a inicial
+4 vezes menor do que a inicial
+3 vezes maior do que a inicial
+
+Química
+Isótonos, Isóbaros e Isótopos
+(ABC) O deutério é um:
+Isótopo de hidrogênio
+Isóbaro de hidrogênio
+Isótopo de hidrogênio
+Radioisótono do hidrogênio
+Isômero do hidrogênio
+Alótropo do hidrogênio
+
+Química
+Petróleo
+Na destilação do petróleo, ao ser aumentada gradativamente a temperatura, são obtidos, sucessivamente:
+Gasolina, querosene, óleo diesel
+Óleo diesel, gasolina, águas amoniacais
+Gasolina, querosene, óleo diesel
+Óleos lubrificantes, gasolina, querosene
+Alcatrão, querosene, águas amoniacais
+Óleo diesel, gasolina, querosene
