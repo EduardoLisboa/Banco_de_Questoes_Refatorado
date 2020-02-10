@@ -86,7 +86,7 @@ class Professor(Usuario):
         elif opc == 6:
             confirmar = func_entrada(str, '\nConfirmar exclusão da conta? (s/n)\n--> ').lower()
             if confirmar == 's':
-                self.ativo = False
+                self.remover()
                 print('\nConta excluída com sucesso!')
                 input()
                 login.login()

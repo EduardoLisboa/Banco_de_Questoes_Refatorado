@@ -20,15 +20,10 @@ class Questao():
     @staticmethod
     def adicionar_questao(id_usuario_online):    
         print('Adicionar Questão')
-        # materia = str(input('Matéria: '))
         materia = func_entrada(str, 'Matéria: ')
-        # palavra_chave = str(input('Assunto: '))
         palavra_chave = func_entrada(str, 'Assunto: ')
-        # texto = str(input('Texto: '))
         texto = func_entrada(str, 'Texto: ')
-        # resposta = str(input('Resposta: '))
         resposta = func_entrada(str, 'Resposta: ')
-        # alternativas = [str(input(f'Alternativa {i}: ')) for i in range(1, 5)]
         alternativas = [func_entrada(str, f'Alternativa {i}: ') for i in range(1, 5)]
         alternativas.append(resposta)
         nova_questao = Questao(materia, palavra_chave, texto, resposta, alternativas, id_usuario_online, Questao.indice_questoes, True)

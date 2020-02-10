@@ -33,6 +33,9 @@ def login():
                 print('\nSenha incorreta!\n')
                 input()
                 system('clear')
+        except KeyboardInterrupt:
+            print('\nAté logo!\n')
+            exit()
         except KeyError:
             print('\nUsuário não cadastrado!\n')
-            exit()
+            input()
