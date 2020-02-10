@@ -1,6 +1,6 @@
 from getpass import getpass
 
-def func_entrada(tipo, msg, limite = False, lim_inf = -1, lim_sup = -1):
+def func_entrada(tipo, msg, limite = False, lim_sup = -1):
     while True:
         try:
             if tipo == getpass:
@@ -31,7 +31,7 @@ def func_entrada(tipo, msg, limite = False, lim_inf = -1, lim_sup = -1):
             else: 
                 if not limite: break
                 else:
-                    if lim_inf <= entrada <= lim_sup: break
+                    if 1 <= entrada <= lim_sup: break
                     else:
                         print('Valor inválido!')
                         print('Nova entrada: ', end='')

@@ -2,7 +2,9 @@ from os import system
 from random import randint, shuffle
 from getpass import getpass
 from hashing import hashing
-from usuarios import Usuario, Professor, Aluno
+from usuarios import Usuario
+from professor import Professor
+from aluno import Aluno
 from menus import menus_bancos, cabecalho, menus_questoes, menu_alunos
 from questoes import Questao
 import login
@@ -44,10 +46,10 @@ def banco_de_questoes(prof, id_usuario_online):
     limpar_tela()
     menus_bancos[prof]()
     if(prof):
-        opcao = func_entrada(int, '', True, 1, 8)
+        opcao = func_entrada(int, '', True, 8)
         funcoes_professor[opcao - 1](prof, id_usuario_online)
     else: # É aluno
-        opcao = func_entrada(int, '', True, 1, 5)
+        opcao = func_entrada(int, '', True, 5)
         funcoes_aluno[opcao - 1](prof, id_usuario_online)
 
 
@@ -66,57 +68,9 @@ def adicionar_professor(prof, id_usuario_online):
 def editar_perfil_professor(prof, id_usuario_online):
     limpar_tela()
     professor = Professor.professores[id_usuario_online - 1]
-    print(f'1 - Nome: {professor.nome}')
-    print(f'2 - Instituição: {professor.instituicao}')
-    print(f'3 - Matéria que leciona: {professor.materia}')
-    print(f'4 - Login: {professor.login}')
-    print('5 - Senha')
-    print('6 - Desativar conta')
-    print('7 - Retornar')
-    opc = func_entrada(int, '--> ', True, 1, 7)
-
-    if opc == 1:
-        professor.nome = func_entrada(str, 'Novo Nome: ')
-        print('\nNome alterado com sucesso!')
-        input()
-    elif opc == 2:
-        professor.instituicao = func_entrada(str, 'Nova Instituição: ')
-        print('\nInstituição alterada com sucesso!')
-        input()
-    elif opc == 3:
-        professor.materia = func_entrada(str, 'Nova Matéria: ')
-        print('\nMatéria alterada com sucesso!')
-        input()
-    elif opc == 4:
-        professor.login = func_entrada(str, 'Novo Login: ')
-        print('\nLogin alterado com sucesso!')
-        input()
-    elif opc == 5:
-        senha_atual = hashing(func_entrada(getpass, 'Senha atual: '))
-        if senha_atual == professor.senha:
-            nova_senha = func_entrada(getpass, 'Nova senha: ')
-            confirmar = func_entrada(getpass, 'Confirmar a nova senha: ')
-            if nova_senha == confirmar:
-                professor.senha = hashing(nova_senha)
-                print('\nSenha alterada com sucesso!')
-                input()
-            else:
-                print('As senhas estão diferentes!')
-                input()
-        else:
-            print('Senha incorreta!')
-            input()
-    elif opc == 6:
-        confirmar = func_entrada(str, '\nConfirmar exclusão da conta? (s/n)\n--> ').lower()
-        if confirmar == 's':
-            professor.ativo = False
-            print('\nConta excluída com sucesso!')
-            input()
-            login.login()
-    elif opc == 7:
-        banco_de_questoes(prof, id_usuario_online)
+    professor.editar_usuario()
     
-    editar_perfil_professor(prof, id_usuario_online)
+    banco_de_questoes(prof, id_usuario_online)
 
 
 def listar_usuarios(prof, id_usuario_online):
@@ -134,7 +88,7 @@ def listar_usuarios(prof, id_usuario_online):
 def alunos(prof, id_usuario_online):
     limpar_tela()
     menu_alunos()
-    opc = func_entrada(int, '', True, 1, 4)
+    opc = func_entrada(int, '', True, 4)
     funcoes_prof_aluno[opc - 1](prof, id_usuario_online)
 
 
@@ -176,49 +130,9 @@ def editar_perfil_aluno(prof, id_usuario_online):
     limpar_tela()
     print('Editar Perfil Aluno')
     aluno = Aluno.alunos[id_usuario_online - 1001]
-    print(f'1 - Nome: {aluno.nome}')
-    print(f'2 - Instituição: {aluno.instituicao}')
-    print(f'3 - Idade: {aluno.idade}')
-    print(f'4 - Login: {aluno.login}')
-    print('5 - Senha')
-    print('6 - Retornar')
-    opc = func_entrada(int, '--> ', True, 1, 6)
+    aluno.editar_usuario()
 
-    if opc == 1:
-        aluno.nome = func_entrada(str, 'Novo Nome: ')
-        print('\nNome alterado com sucesso!')
-        input()
-    elif opc == 2:
-        aluno.instituicao = func_entrada(str, 'Nova Instituição: ')
-        print('\nInstituição alterada com sucesso!')
-        input()
-    elif opc == 3:
-        aluno.idade = func_entrada(str, 'Nova Idade: ')
-        print('\nIdade alterada com sucesso!')
-        input()
-    elif opc == 4:
-        aluno.login = func_entrada(str, 'Novo Login: ')
-        print('\nLogin alterado com sucesso!')
-        input()
-    elif opc == 5:
-        senha_atual = hashing(func_entrada(getpass, 'Senha atual: '))
-        if senha_atual == aluno.senha:
-            nova_senha = func_entrada(getpass, 'Nova senha: ')
-            confirmar = func_entrada(getpass, 'Confirmar a nova senha: ')
-            if nova_senha == confirmar:
-                aluno.senha = hashing(nova_senha)
-                print('\nSenha alterada com sucesso!')
-                input()
-            else:
-                print('As senhas estão diferentes!')
-                input()
-        else:
-            print('Senha incorreta!')
-            input()
-    elif opc == 6:
-        banco_de_questoes(prof, id_usuario_online)
-    
-    editar_perfil_aluno(prof, id_usuario_online)
+    banco_de_questoes(prof, id_usuario_online)
 
 
 # ------------------------------------------------------------------------ #
@@ -230,7 +144,7 @@ def editar_perfil_aluno(prof, id_usuario_online):
 def questoes(prof, id_usuario_online):
     limpar_tela()
     menus_questoes[0]()
-    opc = func_entrada(int, '', True, 1, 4)
+    opc = func_entrada(int, '', True, 4)
     funcoes_questoes[opc - 1](prof, id_usuario_online)
 
 
@@ -238,7 +152,7 @@ def exibir_questoes(prof, id_usuario_online):
     limpar_tela()
     print('Exibir Questões')
     menus_questoes[1]()
-    opc = func_entrada(int, '', True, 1, 3)
+    opc = func_entrada(int, '', True, 3)
     if opc == 1: # Exibir todas as questões
         limpar_tela()
         letras = ['a) ', 'b) ', 'c) ', 'd) ', 'e) ']
@@ -260,7 +174,7 @@ def exibir_questoes(prof, id_usuario_online):
         limpar_tela()
         for index, materia in enumerate(Questao.materias, start=1):
             print(f'{index} - {materia}')
-        opc = func_entrada(int, '--> ', True, 1, len(Questao.materias))
+        opc = func_entrada(int, '--> ', True, len(Questao.materias))
         letras = ['a) ', 'b) ', 'c) ', 'd) ', 'e) ']
         apareceu = []
         for questao in Questao.questoes:
@@ -291,7 +205,7 @@ def remover_questao(prof, id_usuario_online):
     limpar_tela()
     print('Remover Questão')
     menus_questoes[1]()
-    opc = func_entrada(int, '', True, 1, 3)
+    opc = func_entrada(int, '', True, 3)
     if opc == 1: # Exibir todas as questões
         limpar_tela()
         letras = ['a) ', 'b) ', 'c) ', 'd) ', 'e) ']
@@ -312,7 +226,7 @@ def remover_questao(prof, id_usuario_online):
         limpar_tela()
         for index, materia in enumerate(Questao.materias, start=1):
             print(f'{index} - {materia}')
-        opc = func_entrada(int, '--> ', True, 1, len(Questao.materias))
+        opc = func_entrada(int, '--> ', True, len(Questao.materias))
         letras = ['a) ', 'b) ', 'c) ', 'd) ', 'e) ']
         apareceu = []
         for questao in Questao.questoes:
